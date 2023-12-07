@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# ASP0004: Do not use action results with route handlers
+dotnet_diagnostic.ASP0004.severity = suggestion
